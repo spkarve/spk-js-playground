@@ -1,0 +1,16 @@
+[
+  {
+    "make": "Tata",
+    "model": "Nexon",
+    "variants": [
+      {
+        "fuelType": "Petrol",
+        "transmissionTypes": "Manual"
+      },
+      {
+        "fuelType": "Electric",
+        "transmissionTypes": null
+      }
+    ]
+  }
+]

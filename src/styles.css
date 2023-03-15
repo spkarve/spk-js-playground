@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+}
+
+#CatalogViewer {
+  display: flex;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid black;
+}
+#FilterPanel {
+  border-right: 1px solid black;
+  margin-right: 10px;
+  padding: 0 10px 0 5px;
+}
+
+.FilterCategoryTitle {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}

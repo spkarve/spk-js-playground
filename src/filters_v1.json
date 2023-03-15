@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Fuel Type",
+    "options": ["Petrol", "Diesel", "Electric", "CNG"],
+    "allowAll": true
+  },
+  {
+    "title": "Body Type",
+    "options": ["Hatchback", "Sedan", "MPV", "SUV"],
+    "allowAll": true
+  },
+  {
+    "title": "Transmission Type",
+    "options": ["Manual", "AMT", "DCT", "TC"],
+    "allowAll": true
+  }
+]
